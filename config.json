@@ -15,8 +15,8 @@
   "13": "C",
   "14": "B",
   "15": "C",
-  "mainThreadId": "6601227983317461",
-  "notesMainThreadId": "",
+  "mainThreadId": "24923346260664319",
+  "notesMainThreadId": "24923346260664319",
   "botAccount": {
     "email": "",
     "password": "",
@@ -30,41 +30,41 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
-  "prefix": "!",
+  "nickNameBot": "𝐌𝐞𝐠𝐡 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "prefix": "?",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "100082395531611",
-        "100015168369582"
+        "61574715983842",
+        "61561478741714"
       ]
     }
   },
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
-      "100015168369582"
+      "61574715983842",
+      "61561478741714"
     ]
   },
   "adminBot": [
-    "100082395531611",
-    "100015168369582"
+    "61574715983842",
+    "61561478741714"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100082395531611",
-      "100015168369582"
+      "61574715983842",
+      "61561478741714"
     ]
   },
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "6601227983317461",
-      "9832241216832773"
+      "1835778143715180",
+      "24923346260664319"
     ]
   },
   "showLoginTitle": false,
